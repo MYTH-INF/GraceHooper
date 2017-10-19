@@ -1,0 +1,26 @@
+body{
+  font-family: sans-serif;
+}
+
+
+.biografia{
+  background-color: pink;
+  width: 70%;
+  display: inline-block;
+  font-size: 16px;
+  line-height: 2;
+}
+.resumen{
+  background-color: purple;
+  display: inline-block;
+  vertical-align: top;
+}
+.tablaresumen{
+border: 5px solid orange;
+}
+.tablaresumen thead{
+  background-color: white;
+}
+.tablaresumen tbody tr:first-child{
+  text-align: center;
+}
